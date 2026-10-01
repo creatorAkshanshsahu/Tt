@@ -3,6 +3,7 @@ package com.livetvbox.nativev1;
 import android.app.Activity;
 import android.os.Bundle;
 import android.graphics.Color;
+import android.view.Gravity;
 import android.graphics.Typeface;
 import android.net.Uri;
 import android.view.KeyEvent;
